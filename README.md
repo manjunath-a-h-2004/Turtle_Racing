@@ -1,4 +1,4 @@
-![Screenshot 2025-05-09 202446](https://github.com/user-attachments/assets/282a5435-1dab-4971-93fb-f52269b23a69)# 🐢 Turtle Racing Game using Python
+# 🐢 Turtle Racing Game using Python
 
 This is a simple **Turtle Racing** game built using Python's `turtle` graphics library. It's a fun and interactive project that simulates a race between multiple turtles, each with a different color. The winner is determined randomly in each race.
 
